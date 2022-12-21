@@ -1,4 +1,4 @@
-# NYC Building Energy Efficiency Grades
+# Visualizing Urban Data with Code, Fall 2022
 
 This is the repository for the [NYC Open Data Week 2022](https://www.open-data.nyc/) workshop in which we analyze and map New York City's building energy efficiency grades with Python, Pandas, Geopandas, and Altair. This workshop was given on March 7, 2022 by [Juan Francisco Saldarriaga](https://brown.columbia.edu/portfolio/juan-francisco-saldarriaga-2/) from the [Brown Institute for Media Innovation](https://brown.columbia.edu/) at Columbia University's Journalism School.
 
