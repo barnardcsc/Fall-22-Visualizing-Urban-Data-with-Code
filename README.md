@@ -27,6 +27,6 @@ We've all seen the energy grades posted at the entrances of large buildings in N
 
 This workshop will teach you mapmaking through programming — Python will be our language of choice, and we will introduce powerful packages like Pandas, Geopandas and Altair to explore geographic data. Our final product will be a Colab Notebook (similar to a Jupyter Notebook) with maps and graphs exploring the distribution of energy grades from 2020 and 2021 across the city and highlighting specific investigative leads.
 
-This session will be led by [Juan Francisco Saldarriaga](https://brown.columbia.edu/portfolio/juan-francisco-saldarriaga-2/), Senior Data & Design Researcher at the [Brown Institute for Media Innovation](https://brown.columbia.edu/) at Columbia University's School of Journalism.
+This session will be led by [Juan Francisco Saldarriaga](https://brown.columbia.edu/portfolio/juan-francisco-saldarriaga-2/), Senior Data & Design Researcher at the [Brown Institute for Media Innovation](https://brown.columbia.edu/) at Columbia University's School of Journalism. Developed for the Vagelos Computational Science Center (CSC). More information on the event can be found [here](https://csc.barnard.edu/events/workshop-visualizing-urban-data-code).
 
 No prior programming experience is required.
